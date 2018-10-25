@@ -1,0 +1,3 @@
+- Whole site exist in index.php
+- Partials are attached to index.php when it is executed.
+- All static images are stored in img folder

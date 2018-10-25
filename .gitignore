@@ -1,0 +1,5 @@
+# project specific data
+aaadump
+
+uploads/banners/*
+!uploads/banners/readme.txt
